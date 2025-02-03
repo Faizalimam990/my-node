@@ -57,4 +57,4 @@ const makeCommits = (n) => {
 };
 
 // Start the commit creation process
-makeCommits(200);  // Change the number of commits as needed
+makeCommits(100);  // Change the number of commits as needed
